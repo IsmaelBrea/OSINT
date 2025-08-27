@@ -8,7 +8,7 @@
 
 - Descubrir **dominios, subdominios y servidores** de una organización.  
 - Obtener **correos electrónicos públicos** asociados a un dominio.  
-- Recolectar **puertos abiertos, tIPs y hostnames** para auditorías de seguridad.  
+- Recolectar **puertos abiertos, IPs y hostnames** para auditorías de seguridad.  
 - Realizar pruebas de **footprinting y reconocimiento** en el marco de un pentest.  
 
 ---
@@ -67,4 +67,5 @@ Parámetro	Descripción
 
 
 theHarvester es una herramienta clave en la fase de recolección de información de un pentester o investigador OSINT.
+
 
