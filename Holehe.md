@@ -37,6 +37,7 @@ pip install holehe
 
 Esto instalará Holehe y todas las dependencias necesarias.
 
+```
 
 ### Opción 2: Clonar el repositorio oficial
 git clone https://github.com/megadose/holehe.git
@@ -75,5 +76,6 @@ No abuses del escaneo masivo de correos o usuarios, puede bloquear tu IP.
 Actualiza Holehe regularmente, ya que los servicios web cambian sus métodos de verificación.
 
 Usa un entorno virtual de Python (venv) para mantener el sistema limpio.
+
 
 Combínalo con otras herramientas OSINT para análisis más completo.
