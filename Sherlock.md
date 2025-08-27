@@ -13,7 +13,7 @@ Sirve básicamente para saber dónde está registrado tu nombre de usuario.
 
 ---
 
-## 💻 Instalación en Linux / Kali Linux (método recomendado)
+##  Instalación en Linux / Kali Linux (método recomendado)
 
 1. **Actualizar el sistema** (opcional):
 ```bash
@@ -41,7 +41,7 @@ export PATH=$HOME/.local/bin:$PATH
 
 echo 'export PATH=$HOME/.local/bin:$PATH' >> ~/.bashrc
 source ~/.bashrc
-
+```
     ✅ No usar sudo apt install sherlock, ya que en Kali rolling falla por dependencias rotas (python3-stem).
 
 ▶️ Uso Básico
@@ -76,4 +76,5 @@ sherlock -l lista_usuarios.txt
 
 
 Sherlock es muy útil para investigadores, analistas de seguridad y profesionales de OSINT que necesiten mapear la presencia digital de personas o marcas.
+
 
