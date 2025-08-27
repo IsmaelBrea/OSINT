@@ -1,4 +1,4 @@
-# 🌐 theHarvester - OSINT para Correos, Dominios y Subdominios
+# 🌐 theHarvester
 
 **theHarvester** es una herramienta de código abierto incluida en Kali Linux que sirve para **recolectar información pública (OSINT) sobre correos electrónicos, subdominios, hosts y direcciones IP** de un dominio específico, utilizando motores de búsqueda, redes sociales y otras fuentes abiertas.  
 
@@ -64,5 +64,6 @@ Parámetro	Descripción
     Uso: Ejecutar theHarvester con el dominio y fuente de datos.
 
     Utilidad: Muy valioso en pentesting, auditorías de seguridad y reconocimiento previo a ataques.
+
 
 theHarvester es una herramienta clave en la fase de recolección de información de un pentester o investigador OSINT.
