@@ -27,7 +27,7 @@ Para usar Holehe necesitas:
 
 ---
 
-## Instalación
+##  Instalación en Linux / Kali Linux 
 
 ### Opción 1: Instalar con `pip`
 
@@ -79,6 +79,7 @@ Usa un entorno virtual de Python (venv) para mantener el sistema limpio.
 
 
 Combínalo con otras herramientas OSINT para análisis más completo.
+
 
 
 
