@@ -46,25 +46,20 @@ source ~/.bashrc
 
 ▶️ Uso Básico
 
-    Buscar un usuario:
+Buscar un usuario:
+    sherlock usuario123
 
-sherlock usuario123
+Guardar resultados en CSV:
+    sherlock usuario123 --csv
 
-    Guardar resultados en CSV:
+Usar Tor para anonimato:
+        sherlock usuario123 --tor
 
-sherlock usuario123 --csv
+ Buscar múltiples usuarios a la vez:
+    sherlock usuario123 usuario456
 
-    Usar Tor para anonimato:
-
-sherlock usuario123 --tor
-
-    Buscar múltiples usuarios a la vez:
-
-sherlock usuario123 usuario456
-
-    Buscar desde un archivo de usuarios:
-
-sherlock -l lista_usuarios.txt
+Buscar desde un archivo de usuarios:   
+    sherlock -l lista_usuarios.txt    
 
 ✅ Resumen
 
@@ -76,5 +71,6 @@ sherlock -l lista_usuarios.txt
 
 
 Sherlock es muy útil para investigadores, analistas de seguridad y profesionales de OSINT que necesiten mapear la presencia digital de personas o marcas.
+
 
 
