@@ -1,7 +1,7 @@
 # 🕵️‍♂️ Sherlock:
 
 **Sherlock** es una herramienta de código abierto escrita en Python que sirve para **buscar un nombre de usuario en cientos de redes sociales** y plataformas públicas, facilitando tareas de **OSINT (Open Source Intelligence)**.  
-Sirve básicamente para saber dónde está registrado tu nombre de usuario.
+Sirve básicamente para saber dónde está registrado un nombre de usuario.
 
 ---
 
@@ -71,6 +71,7 @@ Buscar desde un archivo de usuarios:
 
 
 Sherlock es muy útil para investigadores, analistas de seguridad y profesionales de OSINT que necesiten mapear la presencia digital de personas o marcas.
+
 
 
 
