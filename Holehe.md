@@ -30,7 +30,7 @@ Para usar Holehe necesitas:
 
 ## Instalación
 
-### Opción 1: Instalar con `pip` (recomendado)
+### Opción 1: Instalar con `pip`
 
 ```bash
 pip install holehe
@@ -80,5 +80,6 @@ Usa un entorno virtual de Python (venv) para mantener el sistema limpio.
 
 
 Combínalo con otras herramientas OSINT para análisis más completo.
+
 
 
