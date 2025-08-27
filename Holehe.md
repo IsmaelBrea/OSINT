@@ -40,10 +40,11 @@ Esto instalará Holehe y todas las dependencias necesarias.
 ```
 
 ### Opción 2: Clonar el repositorio oficial
+```bash
 git clone https://github.com/megadose/holehe.git
 cd holehe
 pip install -r requirements.txt
-
+```
 
 ## Uso básico
 holehe <correo_o_usuario>
@@ -79,3 +80,4 @@ Usa un entorno virtual de Python (venv) para mantener el sistema limpio.
 
 
 Combínalo con otras herramientas OSINT para análisis más completo.
+
