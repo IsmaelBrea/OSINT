@@ -4,7 +4,7 @@
 
 ---
 
-## 🔹 Para qué sirve
+## Funcionalidades principales
 
 - Descubrir **dominios, subdominios y servidores** de una organización.  
 - Obtener **correos electrónicos públicos** asociados a un dominio.  
@@ -67,3 +67,4 @@ Parámetro	Descripción
 
 
 theHarvester es una herramienta clave en la fase de recolección de información de un pentester o investigador OSINT.
+
