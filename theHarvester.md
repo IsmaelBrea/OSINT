@@ -43,17 +43,19 @@ theHarvester -d openai.com -b bing -c
 Para saber todos los posibles parámetros de theHarvester hay que usar:
 theHarvester -h
 
-Parámetro	Descripción
--d <dominio>	Dominio objetivo (ej: tesla.com)
--b <fuente>	Fuente de datos (google, bing, yahoo, linkedin, crtsh, all)
--l <número>	Límite de resultados (ej: -l 300)
--s <número>	Offset o inicio de resultados (paginación)
--f <archivo>	Exporta resultados a HTML/XML (ej: -f reporte.html)
--v	Modo verbose (más información en consola)
--c	DNS bruteforce con diccionario de subdominios
--n	No resuelve hostnames a IP
--t	Expansión TLD (prueba .net, .org, .es, etc.)
--e <dns>	Define servidores DNS específicos
+| Parámetro       | Descripción                                         |
+|-----------------|-----------------------------------------------------|
+| -d <dominio>    | Dominio objetivo (ej: tesla.com)                   |
+| -b <fuente>     | Fuente de datos (google, bing, yahoo, linkedin, crtsh, all) |
+| -l <número>     | Límite de resultados (ej: -l 300)                  |
+| -s <número>     | Offset o inicio de resultados (paginación)         |
+| -f <archivo>    | Exporta resultados a HTML/XML (ej: -f reporte.html) |
+| -v              | Modo verbose (más información en consola)         |
+| -c              | DNS bruteforce con diccionario de subdominios      |
+| -n              | No resuelve hostnames a IP                          |
+| -t              | Expansión TLD (prueba .net, .org, .es, etc.)      |
+| -e <dns>        | Define servidores DNS específicos                  |
+
 
 
 ✅ Resumen
@@ -68,6 +70,7 @@ Parámetro	Descripción
 
 
 theHarvester es una herramienta clave en la fase de recolección de información de un pentester o investigador OSINT.
+
 
 
 
