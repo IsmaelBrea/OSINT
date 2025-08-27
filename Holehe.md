@@ -3,7 +3,7 @@
 ## ¿Qué es Holehe?
 
 **Holehe** es una herramienta de línea de comandos que permite **verificar si un correo electrónico o nombre de usuario está registrado en múltiples servicios web** (como Gmail, Outlook, Instagram, Twitter, etc.).  
-Se usa principalmente con fines de **seguridad informática y análisis OSINT (Open Source Intelligence)**, para comprobar la exposición de correos y usuarios en distintas plataformas.
+Se usa principalmente con fines de **seguridad informática y análisis OSINT (Open Source Intelligence)**, para comprobar la exposición de correos y usuarios en distintas plataformas. Con esta herramienta podemos si un correo está registrado en ciertas páginas y plataformas y a partir de ahí tirar de un hilo. Es muy bueno para identificar identidades, identificar cuentas falsas o analizar amenazas entre otras cosas.
 
 > ⚠️ **Aviso legal:** Solo debes usar Holehe sobre cuentas propias o con permiso explícito. Usarlo sobre cuentas de terceros sin autorización puede ser ilegal.
 
@@ -80,4 +80,5 @@ Usa un entorno virtual de Python (venv) para mantener el sistema limpio.
 
 
 Combínalo con otras herramientas OSINT para análisis más completo.
+
 
