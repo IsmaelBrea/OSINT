@@ -5,7 +5,7 @@ Sirve básicamente para saber dónde está registrado tu nombre de usuario.
 
 ---
 
-## 🔹 Para qué sirve
+## Funcionalidades principales
 
 - Identificar si un nombre de usuario está registrado en diferentes redes sociales.
 - Recolectar información pública de perfiles en línea.
@@ -76,3 +76,4 @@ sherlock -l lista_usuarios.txt
 
 
 Sherlock es muy útil para investigadores, analistas de seguridad y profesionales de OSINT que necesiten mapear la presencia digital de personas o marcas.
+
