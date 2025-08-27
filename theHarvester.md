@@ -39,7 +39,7 @@ theHarvester -d tesla.com -b all -l 500 -f tesla_report.html
 theHarvester -d openai.com -b bing -c
 
 ```
-⚙️ Parámetros Principales
+## Parámetros Principales
 Para saber todos los posibles parámetros de theHarvester hay que usar:
 theHarvester -h
 
@@ -68,6 +68,7 @@ Parámetro	Descripción
 
 
 theHarvester es una herramienta clave en la fase de recolección de información de un pentester o investigador OSINT.
+
 
 
 
