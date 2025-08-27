@@ -1,4 +1,4 @@
-# Heramientas OSINT
+# Herramientas OSINT
 OSINT (Open Source Intelligence) es la práctica de recopilar información pública y legalmente accesible de internet y otras fuentes abiertas para análisis, investigaciones o seguridad informática.
 
 En este repositorio veremos una **colección de herramientas** (Linux) para la recolección de inteligencia de código abierto (OSINT), enfocadas en obtener información pública de diversas fuentes en línea para investigaciones y análisis de seguridad.
