@@ -7,9 +7,13 @@ Para aprender a usar la mayoría de estas herramientas, podemos utilizar el par�
 **comando -h**
 
 1-Comprobar en que páginas está registrado un correo: holehe, hunt, hudsonrock etc.
+
 2-Comprobar en que redes sociales se encuentra un nombre de usuario específico: sherlock, maigret, toutais etc.
+
 3-Obtener información a partir de números de teléfonos: Ignorant etc.
+
 4-Obtener información específica a partir de una dirección IP: GhostTrack, GeoRecon, who.is, ISMALICIUOS
+
 ## Herramientas
 
 1. **Holehe: herramienta (script) de línea de comandos que permite verificar si un correo electrónico o nombre de usuario está registrado en múltiples servicios web**
