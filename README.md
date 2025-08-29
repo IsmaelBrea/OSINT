@@ -18,6 +18,8 @@ Para aprender a usar la mayoría de estas herramientas Linux, podemos utilizar e
 
 6-Obtener información a partir de números de teléfonos: Ignorant etc.
 
+7- Búsqueda y verificación de rostros en Internet: PimEyes
+
 ## Herramientas
 
 1. **Holehe: herramienta (script) de línea de comandos que permite verificar si un correo electrónico o nombre de usuario está registrado en múltiples servicios web**
