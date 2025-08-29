@@ -22,10 +22,10 @@ Para aprender a usar la mayoría de estas herramientas Linux, podemos utilizar e
 - Buscar en qué redes sociales se encuentra un nombre de usuario: **Sherlock, Maigret, Toutatis**  
 
 ### 3. Dominios y sitios web
-- Recolección de información pública a partir de un dominio: **TheHarvester**, **DNSDumpster** ([dnsdumpster.com](https://dnsdumpster.com))  
+- Recolección de información pública a partir de un dominio: **TheHarvester, Whois, DNSDumpster** ([dnsdumpster.com](https://dnsdumpster.com))  
 
 ### 4. Direcciones IP
-- Obtener información específica de una IP: **GhostTrack, GeoRecon, Who.is, ISMALICIOUS**  
+- Obtener información específica de una IP: **GhostTrack, GeoRecon, ISMALICIOUS**  
 
 ### 5. Números de teléfono
 - Obtener información a partir de números de teléfono: **Ignorant**, etc.  
