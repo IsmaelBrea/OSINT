@@ -46,10 +46,10 @@ Para aprender a usar la mayoría de estas herramientas Linux, podemos utilizar e
 3. **Have I Been Pwned**: Web que permite comprobar si una cuenta ha sido comprometida en brechas de seguridad conocidas.  
 
 ### B. Para redes sociales
-4. **Sherlock**: Busca cuentas de usuario en varias redes sociales usando un nombre de usuario específico.  
+4. **Sherlock**: Script que busca cuentas de usuario en varias redes sociales usando un nombre de usuario específico.  
 
 ### C. Para dominios y sitios web
-5. **TheHarvester** (preinstalada en Kali Linux): Recolecta emails, subdominios y hosts de un dominio u organización usando fuentes OSINT.  
+5. **TheHarvester** (preinstalada en Kali Linux): herramienta que recolecta emails, subdominios y hosts de un dominio u organización usando fuentes OSINT.  
 6. **DNSDumpster**: Web que muestra de forma clara los registros DNS de un dominio, incluyendo IPs, servidores de correo y subdominios.  
 
 ### D. Para IPs
