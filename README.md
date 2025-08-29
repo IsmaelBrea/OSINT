@@ -12,7 +12,7 @@ Para aprender a usar la mayoría de estas herramientas Linux, podemos utilizar e
 
 3-Comprobar en que redes sociales se encuentra un nombre de usuario específico: sherlock, maigret, toutais etc.
 
-4-Recolección de información pública (Ips,subdominios, hosts etc) a partir de un dominio: theHarvester
+4-Recolección de información pública (IPs, subdominios, hosts etc) a partir de un dominio: theHarvester
 
 5-Obtener información específica a partir de una dirección IP: GhostTrack, GeoRecon, who.is, ISMALICIUOS
 
