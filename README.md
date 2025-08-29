@@ -34,7 +34,7 @@ Para aprender a usar la mayoría de estas herramientas Linux, podemos utilizar e
 - Explorar dispositivos conectados a Internet y servicios expuestos: **Shodan.io**  
 
 ### 7. Imágenes y rostros
-- Búsqueda y verificación de rostros en Internet: **PimEyes**  
+- Búsqueda y verificación de rostros en Internet: **PimEyes, Search4Faces**  
 - Análisis de metadatos de imágenes y archivos: **ExifTool** (permite ver información oculta como fecha, dispositivo, ubicación y más)
 ---
 
@@ -64,7 +64,8 @@ Para aprender a usar la mayoría de estas herramientas Linux, podemos utilizar e
 9. **Shodan.io**: Motor de búsqueda de dispositivos conectados a Internet, mostrando IPs, puertos abiertos, servicios activos y metadatos.  
 
 ### G. Para imágenes y rostros
-10. **PimEyes**: Web que permite buscar rostros en Internet mediante reconocimiento facial, mostrando dónde ha aparecido una persona en fotos públicas.  
-11. **ExifTool** (preinstalada en Kali Linux): Herramienta de línea de comandos que permite leer, escribir y analizar metadatos de imágenes, audio, video y documentos. Útil para descubrir información oculta como fecha, dispositivo, ubicación GPS y software usado en la creación del archivo.
+10. **PimEyes**: Web que permite buscar rostros en Internet mediante reconocimiento facial, mostrando dónde ha aparecido una persona en fotos públicas.
+11. **Search4Faces**: Web de reconocimiento biómetrico. Compara el rostro que le proporcionamos con todas las imágenes que puede llegar a consultar de manera pública.
+12. **ExifTool** (preinstalada en Kali Linux): Herramienta de línea de comandos que permite leer, escribir y analizar metadatos de imágenes, audio, video y documentos. Útil para descubrir información oculta como fecha, dispositivo, ubicación GPS y software usado en la creación del archivo.
 
 
