@@ -14,7 +14,7 @@ Para aprender a usar la mayoría de estas herramientas Linux, podemos utilizar e
 
 ## Principales usos de OSINT
 
-### 1. Información sobre correos electrónicos
+### 1. Correos electrónicos
 - Comprobar en qué páginas está registrado un correo electrónico: **Holehe, Hunt, HudsonRock**  
 - Saber qué datos están expuestos en Internet: **EmailChecker** ([emailchecker.enriqueite.com](https://emailchecker.enriqueite.com)), **Have I Been Pwned** ([haveibeenpwned.com](https://haveibeenpwned.com))  
 
