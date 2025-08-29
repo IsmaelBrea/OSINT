@@ -1,6 +1,6 @@
 # 👁️‍🗨️ EmailChecker
 
-** https://emailchecker.enriqueite.com **
+https://emailchecker.enriqueite.com
 
 **EmailChecker** es una herramienta web que permite **verificar si un correo electrónico ha sido comprometido en filtraciones de datos conocidas**.  
 Se usa principalmente con fines de **seguridad informática y protección de cuentas**, para comprobar la exposición de correos electrónicos en distintas filtraciones. Con esta herramienta podemos identificar si un correo ha sido expuesto y tomar medidas para proteger nuestras cuentas, como cambiar contraseñas o activar autenticación de dos pasos.
@@ -47,3 +47,4 @@ Para usar EmailChecker necesitas:
 - Activa la autenticación en dos pasos (2FA) siempre que sea posible.  
 - No ingreses correos de terceros sin su consentimiento.  
 - Combina con otras medidas de seguridad y herramientas OSINT para un análisis más completo.
+
