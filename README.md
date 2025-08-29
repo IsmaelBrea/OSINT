@@ -10,11 +10,13 @@ Para aprender a usar la mayoría de estas herramientas, podemos utilizar el par�
 
 2-Comprobar en que redes sociales se encuentra un nombre de usuario específico: sherlock, maigret, toutais etc.
 
-3-Obtener información a partir de números de teléfonos: Ignorant etc.
+3-Recolección de información pública (Ips,subdominios, hosts etc) a partir de un dominio. 
 
 4-Saber que datos están expuestos en Internet a partir de un correo electrónico: emailchecker.enriqueite
 
 5-Obtener información específica a partir de una dirección IP: GhostTrack, GeoRecon, who.is, ISMALICIUOS
+
+6-Obtener información a partir de números de teléfonos: Ignorant etc.
 
 ## Herramientas
 
