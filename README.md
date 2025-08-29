@@ -22,7 +22,7 @@ Para aprender a usar la mayoría de estas herramientas Linux, podemos utilizar e
 - Buscar en qué redes sociales se encuentra un nombre de usuario: **Sherlock, Maigret, Toutatis**  
 
 ### 3. Dominios y sitios web
-- Recolección de información pública a partir de un dominio: **TheHarvester, Whois, DNSDumpster** ([dnsdumpster.com](https://dnsdumpster.com))  
+- Recolección de información pública a partir de un dominio: **TheHarvester, Whois, SpiderFoot, DNSDumpster** ([dnsdumpster.com](https://dnsdumpster.com))  
 
 ### 4. Direcciones IP
 - Obtener información específica de una IP: **GhostTrack, GeoRecon, ISMALICIOUS**  
@@ -49,8 +49,10 @@ Para aprender a usar la mayoría de estas herramientas Linux, podemos utilizar e
 4. **Sherlock**: Script que busca cuentas de usuario en varias redes sociales usando un nombre de usuario específico.  
 
 ### C. Para dominios y sitios web
-5. **TheHarvester** (preinstalada en Kali Linux): herramienta que recolecta emails, subdominios y hosts de un dominio u organización usando fuentes OSINT.  
-6. **DNSDumpster**: Web que muestra de forma clara los registros DNS de un dominio, incluyendo IPs, servidores de correo y subdominios.  
+5. **TheHarvester** (preinstalada en Kali Linux): herramienta que recolecta emails, subdominios y hosts de un dominio u organización usando fuentes OSINT.
+6. **Whois** (preinstalada en Kali Linux): Comando que permite obtener información de registro de un dominio, como propietario, registrador, fechas de creación y expiración, servidores de nombres y contactos administrativos.
+7. **DNSDumpster**: Web que muestra de forma clara los registros DNS de un dominio, incluyendo IPs, servidores de correo y subdominios.
+8. SpiderFoot (preinstalada en Kali Linux): Herramienta de escaneo automatizado OSINT que recopila información pública de dominios, IPs, correos y nombres de usuario, generando informes completos sobre vulnerabilidades, infraestructura y conexiones.
 
 ### D. Para IPs
 7. **GhostTrack, GeoRecon, Who.is, ISMALICIOUS**: Herramientas para obtener información geográfica, de servicios y metadatos de direcciones IP.  
