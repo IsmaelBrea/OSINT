@@ -3,7 +3,7 @@ OSINT (Open Source Intelligence) es la práctica de recopilar información públ
 
 En este repositorio veremos una **colección de herramientas** (Linux y webs) para la recolección de inteligencia de código abierto (OSINT), enfocadas en obtener información pública de diversas fuentes en línea para investigaciones y análisis de seguridad. 
 
-Para aprender a usar la mayoría de estas herramientas, podemos utilizar el parámetro -h o --help con el comando correspondiente, lo que nos mostrará todos los parámetros disponibles y su descripción: 
+Para aprender a usar la mayoría de estas herramientas Linux, podemos utilizar el parámetro -h o --help con el comando correspondiente, lo que nos mostrará todos los parámetros disponibles y su descripción: 
 **comando -h**
 
 1-Comprobar en que páginas está registrado un correo electrónico: holehe, hunt, hudsonrock etc.
