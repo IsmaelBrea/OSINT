@@ -23,3 +23,4 @@ Para aprender a usar la mayoría de estas herramientas, podemos utilizar el par�
 1. **Holehe: herramienta (script) de línea de comandos que permite verificar si un correo electrónico o nombre de usuario está registrado en múltiples servicios web**
 2.  **Sherlock: herramienta que permite buscar cuentas de usuario en una serie de redes sociales utilizando un nombre de usuario específico**
 3. **TheHarvaster (preinstalada en Kali Linux): herramienta que sirve para recolectar información pública (emails, subdominios, hosts) de un dominio u organización usando fuentes OSINT**
+4. **PimEyes: herramienta web que permite buscar rostros en Internet mediante reconocimiento facial, mostrando dónde ha aparecido una persona en fotos públicas**
