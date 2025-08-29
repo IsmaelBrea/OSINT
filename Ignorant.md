@@ -63,7 +63,7 @@ ignorant 34 646464646
 
     Unknown: no se pudo verificar, generalmente por problemas de red o cambios en la API del servicio.
 
-    ## Consejos y buenas prácticas
+## Consejos y buenas prácticas
 
         No abuses del escaneo masivo de números, puede bloquear tu IP.
 
@@ -72,4 +72,5 @@ ignorant 34 646464646
         Usa un entorno virtual de Python (venv) para mantener el sistema limpio.
         
         Combínalo con otras herramientas OSINT para un análisis más completo.
+
 
