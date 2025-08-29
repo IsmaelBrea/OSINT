@@ -1,5 +1,5 @@
 # Herramientas OSINT
-OSINT (Open Source Intelligence) es la práctica de recopilar información pública y legalmente accesible de internet y otras fuentes abiertas para análisis, investigaciones o seguridad informática.
+OSINT (Open Source Intelligence) es la práctica de recopilar información pública y legalmente accesible de internet y otras fuentes abiertas para análisis, investigaciones o seguridad informática. Es legal porque no implica hackeo, todo proviene de sitios webs públicos, motores de búsqueda, archivos filtrados o expuestos o redes sociales abiertas entre otras cosas.
 
 En este repositorio veremos una **colección de herramientas** (Linux) para la recolección de inteligencia de código abierto (OSINT), enfocadas en obtener información pública de diversas fuentes en línea para investigaciones y análisis de seguridad. 
 
@@ -12,7 +12,9 @@ Para aprender a usar la mayoría de estas herramientas, podemos utilizar el par�
 
 3-Obtener información a partir de números de teléfonos: Ignorant etc.
 
-4-Obtener información específica a partir de una dirección IP: GhostTrack, GeoRecon, who.is, ISMALICIUOS
+4-Saber que datos están expuestos en Internet a partir de un correo electrónico: emailchecker.enriqueite
+
+5-Obtener información específica a partir de una dirección IP: GhostTrack, GeoRecon, who.is, ISMALICIUOS
 
 ## Herramientas
 
