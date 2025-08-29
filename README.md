@@ -56,7 +56,7 @@ Para aprender a usar la mayoría de estas herramientas Linux, podemos utilizar e
 7. **GhostTrack, GeoRecon, Who.is, ISMALICIOUS**: Herramientas para obtener información geográfica, de servicios y metadatos de direcciones IP.  
 
 ### E. Para números de teléfono
-8. **Ignorant**: Permite recolectar información pública a partir de números de teléfono.  
+8. **Ignorant**:  Permite verificar si un número de teléfono está asociado con cuentas en distintas plataformas.
 
 ### F. Para dispositivos y servicios expuestos
 9. **Shodan.io**: Motor de búsqueda de dispositivos conectados a Internet, mostrando IPs, puertos abiertos, servicios activos y metadatos.  
