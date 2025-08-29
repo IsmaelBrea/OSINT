@@ -9,25 +9,59 @@ Para aprender a usar la mayoría de estas herramientas Linux, podemos utilizar e
 
 ---
 
-## Principales usos de OSINT
-
-1. **Comprobar en qué páginas está registrado un correo electrónico:** Holehe, Hunt, HudsonRock, etc.  
-2. **Saber qué datos están expuestos en Internet a partir de un correo electrónico:** EmailChecker (emailchecker.enriqueite.com), Haveibeenpwned([haveibeenpwned.com)
-3. **Comprobar en qué redes sociales se encuentra un nombre de usuario específico:** Sherlock, Maigret, Toutatis, etc.  
-4. **Recolección de información pública a partir de un dominio:** TheHarvester, DNSDumpster (dnsdumpster.com) 
-5. **Obtener información específica a partir de una dirección IP:** GhostTrack, GeoRecon, Who.is, ISMALICIOUS  
-6. **Obtener información a partir de números de teléfono:** Ignorant, etc.
-7. **Explorar dispositivos conectados a Internet y servicios expuestos: Shodan.io**
-8. **Búsqueda y verificación de rostros en Internet:** PimEyes  
 
 ---
 
-## Herramientas
+## Principales usos de OSINT
 
-1. **Holehe**: Script de línea de comandos que permite verificar si un correo electrónico o nombre de usuario está registrado en múltiples servicios web.  
-2. **EmailChecker**: Web que permite conocer qué datos fueron expuestos en Internet a través de un correo electrónico.  
-3. **Sherlock**: Herramienta que permite buscar cuentas de usuario en varias redes sociales utilizando un nombre de usuario específico.  
-4. **TheHarvester** (preinstalada en Kali Linux): Herramienta para recolectar información pública (emails, subdominios, hosts) de un dominio u organización usando fuentes OSINT.  
-5. **DNSDumpster**: Web que muestra de forma clara los registros DNS de un dominio, como IPs, servidores de correo y subdominios.  
-6. **PimEyes**: Herramienta web que permite buscar rostros en Internet mediante reconocimiento facial, mostrando dónde ha aparecido una persona en fotos públicas.  
+### 1. Información sobre correos electrónicos
+- Comprobar en qué páginas está registrado un correo electrónico: **Holehe, Hunt, HudsonRock**  
+- Saber qué datos están expuestos en Internet: **EmailChecker** ([emailchecker.enriqueite.com](https://emailchecker.enriqueite.com)), **Have I Been Pwned** ([haveibeenpwned.com](https://haveibeenpwned.com))  
+
+### 2. Redes sociales
+- Buscar en qué redes sociales se encuentra un nombre de usuario: **Sherlock, Maigret, Toutatis**  
+
+### 3. Dominios y sitios web
+- Recolección de información pública a partir de un dominio: **TheHarvester**, **DNSDumpster** ([dnsdumpster.com](https://dnsdumpster.com))  
+
+### 4. Direcciones IP
+- Obtener información específica de una IP: **GhostTrack, GeoRecon, Who.is, ISMALICIOUS**  
+
+### 5. Números de teléfono
+- Obtener información a partir de números de teléfono: **Ignorant**, etc.  
+
+### 6. Dispositivos y servicios expuestos
+- Explorar dispositivos conectados a Internet y servicios expuestos: **Shodan.io**  
+
+### 7. Imágenes y rostros
+- Búsqueda y verificación de rostros en Internet: **PimEyes**  
+
+---
+
+## Herramientas OSINT
+
+### A. Para correos electrónicos
+1. **Holehe**: Script de línea de comandos que verifica si un correo o nombre de usuario está registrado en múltiples servicios web.  
+2. **EmailChecker**: Web que muestra qué datos han sido expuestos en filtraciones de correo.  
+3. **Have I Been Pwned**: Web que permite comprobar si una cuenta ha sido comprometida en brechas de seguridad conocidas.  
+
+### B. Para redes sociales
+4. **Sherlock**: Busca cuentas de usuario en varias redes sociales usando un nombre de usuario específico.  
+
+### C. Para dominios y sitios web
+5. **TheHarvester** (preinstalada en Kali Linux): Recolecta emails, subdominios y hosts de un dominio u organización usando fuentes OSINT.  
+6. **DNSDumpster**: Web que muestra de forma clara los registros DNS de un dominio, incluyendo IPs, servidores de correo y subdominios.  
+
+### D. Para IPs
+7. **GhostTrack, GeoRecon, Who.is, ISMALICIOUS**: Herramientas para obtener información geográfica, de servicios y metadatos de direcciones IP.  
+
+### E. Para números de teléfono
+8. **Ignorant**: Permite recolectar información pública a partir de números de teléfono.  
+
+### F. Para dispositivos y servicios expuestos
+9. **Shodan.io**: Motor de búsqueda de dispositivos conectados a Internet, mostrando IPs, puertos abiertos, servicios activos y metadatos.  
+
+### G. Para imágenes y rostros
+10. **PimEyes**: Web que permite buscar rostros en Internet mediante reconocimiento facial, mostrando dónde ha aparecido una persona en fotos públicas.  
+
 
