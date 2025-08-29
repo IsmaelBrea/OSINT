@@ -1,4 +1,4 @@
-# 👀 PimEyes
+# 🧿 PimEyes
 
 https://pimeyes.com
 
@@ -47,3 +47,4 @@ Para usar PimEyes necesitas:
 - Úsalo para fines legales, educativos o de investigación OSINT.  
 - Combínalo con otras herramientas de verificación de identidad o análisis de redes sociales.  
 - No dependas únicamente de los resultados; siempre verifica manualmente si es necesario.
+
