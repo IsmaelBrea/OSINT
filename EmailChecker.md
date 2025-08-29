@@ -1,4 +1,4 @@
-# 👁️‍🗨️ EmailChecker
+# 👀 EmailChecker
 
 https://emailchecker.enriqueite.com
 
@@ -47,4 +47,5 @@ Para usar EmailChecker necesitas:
 - Activa la autenticación en dos pasos (2FA) siempre que sea posible.  
 - No ingreses correos de terceros sin su consentimiento.  
 - Combina con otras medidas de seguridad y herramientas OSINT para un análisis más completo.
+
 
