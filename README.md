@@ -10,7 +10,6 @@ Para aprender a usar la mayoría de estas herramientas Linux, podemos utilizar e
 ---
 
 
----
 
 ## Principales usos de OSINT
 
