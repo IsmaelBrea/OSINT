@@ -10,7 +10,7 @@ Para aprender a usar la mayoría de estas herramientas, podemos utilizar el par�
 
 2-Comprobar en que redes sociales se encuentra un nombre de usuario específico: sherlock, maigret, toutais etc.
 
-3-Recolección de información pública (Ips,subdominios, hosts etc) a partir de un dominio. 
+3-Recolección de información pública (Ips,subdominios, hosts etc) a partir de un dominio: theHarvester
 
 4-Saber que datos están expuestos en Internet a partir de un correo electrónico: emailchecker.enriqueite
 
