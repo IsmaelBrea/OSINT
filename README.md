@@ -6,13 +6,13 @@ En este repositorio veremos una **colección de herramientas** (Linux) para la r
 Para aprender a usar la mayoría de estas herramientas, podemos utilizar el parámetro -h o --help con el comando correspondiente, lo que nos mostrará todos los parámetros disponibles y su descripción: 
 **comando -h**
 
-1-Comprobar en que páginas está registrado un correo: holehe, hunt, hudsonrock etc.
+1-Comprobar en que páginas está registrado un correo electrónico: holehe, hunt, hudsonrock etc.
 
-2-Comprobar en que redes sociales se encuentra un nombre de usuario específico: sherlock, maigret, toutais etc.
+2-Saber que datos están expuestos en Internet a partir de un correo electrónico: emailchecker.enriqueite
 
-3-Recolección de información pública (Ips,subdominios, hosts etc) a partir de un dominio: theHarvester
+3-Comprobar en que redes sociales se encuentra un nombre de usuario específico: sherlock, maigret, toutais etc.
 
-4-Saber que datos están expuestos en Internet a partir de un correo electrónico: emailchecker.enriqueite
+4-Recolección de información pública (Ips,subdominios, hosts etc) a partir de un dominio: theHarvester
 
 5-Obtener información específica a partir de una dirección IP: GhostTrack, GeoRecon, who.is, ISMALICIUOS
 
