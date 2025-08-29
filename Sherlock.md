@@ -42,9 +42,9 @@ export PATH=$HOME/.local/bin:$PATH
 echo 'export PATH=$HOME/.local/bin:$PATH' >> ~/.bashrc
 source ~/.bashrc
 ```
-    ✅ No usar sudo apt install sherlock, ya que en Kali rolling falla por dependencias rotas (python3-stem).
+     No usar sudo apt install sherlock, ya que en Kali rolling falla por dependencias rotas (python3-stem).
 
-▶️ Uso Básico
+## Uso Básico
 
 Buscar un usuario:
     sherlock usuario123
@@ -61,7 +61,7 @@ Usar Tor para anonimato:
 Buscar desde un archivo de usuarios:   
     sherlock -l lista_usuarios.txt    
 
-✅ Resumen
+## Resumen
 
     Función principal: Localizar perfiles públicos de un usuario en redes sociales.
 
@@ -71,6 +71,7 @@ Buscar desde un archivo de usuarios:
 
 
 Sherlock es muy útil para investigadores, analistas de seguridad y profesionales de OSINT que necesiten mapear la presencia digital de personas o marcas.
+
 
 
 
