@@ -12,12 +12,13 @@ Para aprender a usar la mayoría de estas herramientas Linux, podemos utilizar e
 ## Principales usos de OSINT
 
 1. **Comprobar en qué páginas está registrado un correo electrónico:** Holehe, Hunt, HudsonRock, etc.  
-2. **Saber qué datos están expuestos en Internet a partir de un correo electrónico:** EmailChecker (emailchecker.enriqueite.com)  
+2. **Saber qué datos están expuestos en Internet a partir de un correo electrónico:** EmailChecker (emailchecker.enriqueite.com), Haveibeenpwned([haveibeenpwned.com)
 3. **Comprobar en qué redes sociales se encuentra un nombre de usuario específico:** Sherlock, Maigret, Toutatis, etc.  
 4. **Recolección de información pública a partir de un dominio:** TheHarvester, DNSDumpster (dnsdumpster.com) 
 5. **Obtener información específica a partir de una dirección IP:** GhostTrack, GeoRecon, Who.is, ISMALICIOUS  
-6. **Obtener información a partir de números de teléfono:** Ignorant, etc.  
-7. **Búsqueda y verificación de rostros en Internet:** PimEyes  
+6. **Obtener información a partir de números de teléfono:** Ignorant, etc.
+7. **Explorar dispositivos conectados a Internet y servicios expuestos: Shodan.io**
+8. **Búsqueda y verificación de rostros en Internet:** PimEyes  
 
 ---
 
