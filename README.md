@@ -35,7 +35,7 @@ Para aprender a usar la mayoría de estas herramientas Linux, podemos utilizar e
 
 ### 7. Imágenes y rostros
 - Búsqueda y verificación de rostros en Internet: **PimEyes**  
-
+- Análisis de metadatos de imágenes y archivos: **ExifTool** (permite ver información oculta como fecha, dispositivo, ubicación y más)
 ---
 
 ## Herramientas OSINT
@@ -63,5 +63,6 @@ Para aprender a usar la mayoría de estas herramientas Linux, podemos utilizar e
 
 ### G. Para imágenes y rostros
 10. **PimEyes**: Web que permite buscar rostros en Internet mediante reconocimiento facial, mostrando dónde ha aparecido una persona en fotos públicas.  
+11. **ExifTool** (preinstalada en Kali Linux): Herramienta de línea de comandos que permite leer, escribir y analizar metadatos de imágenes, audio, video y documentos. Útil para descubrir información oculta como fecha, dispositivo, ubicación GPS y software usado en la creación del archivo.
 
 
