@@ -1,6 +1,11 @@
 # Herramientas OSINT
 OSINT (Open Source Intelligence) es la práctica de recopilar información pública y legalmente accesible de internet y otras fuentes abiertas para análisis, investigaciones o seguridad informática. Es legal porque no implica hackeo, todo proviene de sitios webs públicos, motores de búsqueda, archivos filtrados o expuestos o redes sociales abiertas entre otras cosas.
 
+Existen páginas web que recopilan herramientas y recursos relacionados con la inteligencia de fuentes abiertas (OSINT). Una de las más destacadas es el OSINT Framework (osintframework.com), un directorio en línea que organiza diversas aplicaciones y utilidades para realizar búsquedas en fuentes de información abiertas. Está estructurado por categorías, facilitando la navegación según el tipo de información que se desee investigar, como nombres de usuario, correos electrónicos, dominios, direcciones IP, redes sociales y más. A continuación, se adjunta una imagen que muestra la interfaz del OSINT Framework:
+
+![OSINT Framework](/images/osint.png)
+
+---
 En este repositorio veremos una **colección de herramientas** (Linux y webs) para la recolección de inteligencia de código abierto (OSINT), enfocadas en obtener información pública de diversas fuentes en línea para investigaciones y análisis de seguridad. 
 
 Para aprender a usar la mayoría de estas herramientas Linux, podemos utilizar el parámetro -h o --help con el comando correspondiente, lo que nos mostrará todos los parámetros disponibles y su descripción: 
